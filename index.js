@@ -21,7 +21,7 @@ console.log(string.toLowerCase());
 
 }
 
-function sayHitToGrandma(string) {
+function sayHiToGrandma(string) {
 if (string.toUpperCase()) {
   return "YES INDEED!"
 } else if (string.toLowerCase()) {
